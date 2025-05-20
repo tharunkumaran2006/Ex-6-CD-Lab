@@ -1,5 +1,7 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
+# NAME : THARUN V K
+# REG NO : 212223230231
 # Date :
 # Aim :
 To write a program to implement the back end of the compiler.
