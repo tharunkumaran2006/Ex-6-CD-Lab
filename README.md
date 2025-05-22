@@ -1,8 +1,6 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# NAME : THARUN V K
-# REG NO : 212223230231
-# Date :
+# Date : 20/05/2025
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
@@ -13,6 +11,8 @@ To write a program to implement the back end of the compiler.
 5. Target code for the given statement is produced.
 6. Stop the program.
 # PROGRAM
+### DEVELOPED BY : THARUN V K
+### REG NO : 212223230231
 ```c
 #include <stdio.h>
 #include <ctype.h>
